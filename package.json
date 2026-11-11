@@ -1,0 +1,11 @@
+{
+  "name": "wallpine-s3-manager",
+  "version": "1.0.0",
+  "description": "Full-Stack Ceph & S3 Storage Management Web Application",
+  "scripts": {
+    "start": "node server/index.js",
+    "server": "node --watch server/index.js",
+    "client": "npm run dev --prefix client",
+    "build": "npm run build --prefix client"
+  }
+}

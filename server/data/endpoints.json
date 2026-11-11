@@ -1,0 +1,14 @@
+[
+  {
+    "id": "box-ceph-155",
+    "name": "Storage Cluster (Node 155)",
+    "endpointUrl": "http://10.40.11.155:8000",
+    "region": "us-east-1",
+    "accessKey": "QN2BSI9IFCTFYE61DGNV",
+    "secretKey": "KC427Xv1RvCXnBOoAMaAQJe7fqQrG29pAwDatbB9",
+    "type": "ceph",
+    "pathStyle": true,
+    "description": "Production Storage Cluster with S3 Admin Ops enabled",
+    "createdAt": "2026-10-27T08:47:07.270Z"
+  }
+]

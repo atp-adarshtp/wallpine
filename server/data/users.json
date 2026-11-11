@@ -1,0 +1,126 @@
+[
+  {
+    "uid": "weqe",
+    "displayName": "qwewqe",
+    "email": "atp@dewdrive.com",
+    "maxBuckets": 1000,
+    "accessKey": "LMWFN2HJH1ZSR5I3IRPS",
+    "secretKey": "DC4jfDnVz9xost3doRDF6o47c9RHKFuV5AUYoL5Q",
+    "source": "ceph_admin_ops",
+    "raw": {
+      "full_user_id": "weqe",
+      "tenant": "",
+      "user_id": "weqe",
+      "display_name": "qwewqe",
+      "email": "atp@dewdrive.com",
+      "suspended": 0,
+      "max_buckets": 1000,
+      "subusers": [],
+      "keys": [
+        {
+          "user": "weqe",
+          "access_key": "LMWFN2HJH1ZSR5I3IRPS",
+          "secret_key": "DC4jfDnVz9xost3doRDF6o47c9RHKFuV5AUYoL5Q",
+          "active": true
+        }
+      ],
+      "swift_keys": [],
+      "caps": [],
+      "op_mask": "read, write, delete",
+      "system": false,
+      "admin": false,
+      "default_placement": "",
+      "default_storage_class": "",
+      "placement_tags": [],
+      "bucket_quota": {
+        "enabled": false,
+        "check_on_raw": false,
+        "max_size": -1,
+        "max_size_kb": 0,
+        "max_objects": -1
+      },
+      "user_quota": {
+        "enabled": false,
+        "check_on_raw": false,
+        "max_size": -1,
+        "max_size_kb": 0,
+        "max_objects": -1
+      },
+      "temp_url_keys": [],
+      "type": "rgw",
+      "mfa_ids": [],
+      "account_id": "",
+      "path": "/",
+      "create_date": "2026-10-27T09:48:06.833891Z",
+      "tags": [],
+      "group_ids": []
+    },
+    "endpointId": "box-ceph-155",
+    "endpointName": "Storage Cluster (Node 155)",
+    "endpointUrl": "http://10.40.11.155:8000",
+    "createdAt": "2026-10-27T09:48:08.478Z",
+    "id": "user-1793094488478"
+  },
+  {
+    "uid": "portal-test-user",
+    "displayName": "Portal Test User",
+    "email": "",
+    "maxBuckets": 1000,
+    "accessKey": "10EZNTH61ZV35KENIV77",
+    "secretKey": "4p1Xsk8ZrFhJBkdL4Lmz3NKISZutbr82oANfGfK4",
+    "source": "ceph_admin_ops",
+    "raw": {
+      "full_user_id": "portal-test-user",
+      "tenant": "",
+      "user_id": "portal-test-user",
+      "display_name": "Portal Test User",
+      "email": "",
+      "suspended": 0,
+      "max_buckets": 1000,
+      "subusers": [],
+      "keys": [
+        {
+          "user": "portal-test-user",
+          "access_key": "10EZNTH61ZV35KENIV77",
+          "secret_key": "4p1Xsk8ZrFhJBkdL4Lmz3NKISZutbr82oANfGfK4",
+          "active": true
+        }
+      ],
+      "swift_keys": [],
+      "caps": [],
+      "op_mask": "read, write, delete",
+      "system": false,
+      "admin": false,
+      "default_placement": "",
+      "default_storage_class": "",
+      "placement_tags": [],
+      "bucket_quota": {
+        "enabled": false,
+        "check_on_raw": false,
+        "max_size": -1,
+        "max_size_kb": 0,
+        "max_objects": -1
+      },
+      "user_quota": {
+        "enabled": false,
+        "check_on_raw": false,
+        "max_size": -1,
+        "max_size_kb": 0,
+        "max_objects": -1
+      },
+      "temp_url_keys": [],
+      "type": "rgw",
+      "mfa_ids": [],
+      "account_id": "",
+      "path": "/",
+      "create_date": "2026-10-27T09:33:11.807898Z",
+      "tags": [],
+      "group_ids": []
+    },
+    "endpointId": "box-ceph-155",
+    "endpointName": "Storage Cluster (Node 155)",
+    "endpointUrl": "http://10.40.11.155:8000",
+    "createdAt": "2026-10-27T09:33:12.353Z",
+    "id": "user-1793093592353"
+  }
+]

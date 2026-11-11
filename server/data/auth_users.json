@@ -1,0 +1,18 @@
+[
+  {
+    "id": "auth-admin",
+    "username": "admin",
+    "password": "admin123",
+    "name": "System Administrator",
+    "role": "admin",
+    "createdAt": "2026-10-27T09:59:33.741Z"
+  },
+  {
+    "id": "auth-user",
+    "username": "user",
+    "password": "user123",
+    "name": "S3 Workspace User",
+    "role": "user",
+    "createdAt": "2026-10-27T09:59:33.741Z"
+  }
+]
